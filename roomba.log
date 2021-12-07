@@ -1,0 +1,8 @@
+2021-11-22 15:37:28 ERROR ToDoDaoImpl:78 - org.postgresql.util.PSQLException: ERROR: relation "tod" does not exist
+  Position: 15
+2021-11-23 11:30:22 ERROR ToDoDaoImpl:144 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO todos VALUES (DEFAULT, ?); [21002-200]
+2021-11-23 11:30:22 ERROR ToDoDaoImpl:144 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO todos VALUES (DEFAULT, ?); [21002-200]
+2021-11-23 11:30:22 ERROR ToDoDaoImpl:144 - org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO todos VALUES (DEFAULT, ?); [21002-200]
