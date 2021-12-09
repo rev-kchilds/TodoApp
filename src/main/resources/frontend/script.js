@@ -10,7 +10,7 @@
     </div>
 </div> 
 */
-let domain = "http://localhost:9000";
+let domain = "";
 
 window.addEventListener("load", () => {
     populateTodos();

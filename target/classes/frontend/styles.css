@@ -1,0 +1,32 @@
+.todo-item{
+    background-color: rgb(189, 189, 189);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.todo-info{
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.create-todo-form{
+    width: 100%;
+    padding: 10px;
+}
+
+#task-input{
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+}
